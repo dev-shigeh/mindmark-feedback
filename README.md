@@ -10,7 +10,7 @@ This repository is used to track bugs and feature requests.
 
 If you found a bug or have a suggestion, please click the button below:
 
-[**Report a Bug / Request a Feature**]([https://github.com/あなたのユーザー名/リポジトリ名/issues/new](https://github.com/dev-shigeh/mindmark-feedback/issues))
+[**Report a Bug / Request a Feature**](https://github.com/dev-shigeh/mindmark-feedback/issues/new)
 
 ---
-© 2026 Your Name.
+© 2026 Graveon
