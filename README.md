@@ -1,4 +1,4 @@
-# mindmarkn - Feedback & Issue Tracker
+# mindmark - Feedback & Issue Tracker
 
 Thank you for using **mindmarkn**!  
 This repository is used to track bugs and feature requests. 
@@ -10,7 +10,7 @@ This repository is used to track bugs and feature requests.
 
 If you found a bug or have a suggestion, please click the button below:
 
-[**Report a Bug / Request a Feature**](https://github.com/あなたのユーザー名/リポジトリ名/issues/new)
+[**Report a Bug / Request a Feature**]([https://github.com/あなたのユーザー名/リポジトリ名/issues/new](https://github.com/dev-shigeh/mindmark-feedback/issues))
 
 ---
 © 2026 Your Name.
